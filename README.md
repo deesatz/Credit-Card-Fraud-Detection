@@ -10,4 +10,4 @@ Key Highlights:
 
 3.Different sampling techniques do not yield significant result differences, hence not all combinations of sampling techniques+ML algorithms are shown 
 
-4.Achieved AUC>0.96 (Random Forest), Recall score>92%
+4.Achieved AUC>96% (Random Forest), Recall score>92%
